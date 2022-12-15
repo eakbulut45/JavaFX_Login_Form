@@ -1,0 +1,27 @@
+#stadt {
+    -fx-font-family: TRON;
+    -fx-font-size: 20px;
+}
+#cityNameLbl {
+   -fx-font-size: 25;
+ }
+ #temperatureLbl {
+   -fx-font-size: 40;
+ }
+ #celsiusLbl {
+   -fx-font-size: 40;
+ }
+ #timeLbl {
+   -fx-font-size: 11;
+ }
+ #djoLbl {
+   -fx-font-size: 11;
+   -fx-text-fill: gray;
+ }
+ #owmLbl {
+   -fx-font-size: 11;
+   -fx-text-fill: gray;
+ }
+ #botBox {
+   -fx-background-color: black;
+ }
